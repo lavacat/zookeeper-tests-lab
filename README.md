@@ -1,6 +1,6 @@
 # Intro
 
-The goal of the repo is to provide a clean environment to investigate zookeeper tests flakiness
+The goal is to provide a clean environment to investigate zookeeper tests flakiness.
 
 
 # Terraform setup
@@ -9,3 +9,5 @@ The goal of the repo is to provide a clean environment to investigate zookeeper 
 
 > terraform init
 # 
+
+# WIP, terraform isn't tested
